@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Foods"
+        android:background="@color/teal_700"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        tools:ignore="MissingConstraints" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints"/>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:text="Fogazza Beth"
+            android:textSize="35dp"
+            android:padding="15dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Endereço: Rua Carlos Facchina, XXX Telefone :XX XXXXX-XXXX "
+        android:textSize="20dp"
+        android:padding="15dp"/>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Fogazza Beth"
+        android:textSize="35dp"
+        android:padding="15dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Endereço: Rua Carlos Facchina, XXX Telefone :XX XXXXX-XXXX "
+        android:textSize="20dp"
+        android:padding="15dp"/>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Fogazza Beth"
+        android:textSize="35dp"
+        android:padding="15dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="Endereço: Rua Carlos Facchina, XXX Telefone :XX XXXXX-XXXX "
+        android:textSize="20dp"
+        android:padding="15dp"/>
+
+
+
+
+
+
+
+</LinearLayout>
